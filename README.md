@@ -8,6 +8,7 @@ This is a solution to the [SECOND TASK(TASK 2)](https://docs.google.com/document
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
+    - [Figma Templates](#figma-templates)
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
@@ -24,6 +25,10 @@ Create a single page react app that fetches data from the stated open API below 
 
 - API - [https://covidnigeria.herokuapp.com/api](https://covidnigeria.herokuapp.com/api)
 
+### Figma Templates
+
+- Figma Design I worked with - [Covid Case](https://www.figma.com/file/vXaakFsJdpp9ewj3JivJ2M/covid-case-tracker?node-id=0%3A1)
+
 ### Screenshot
 
 ![HOME](./src/home.png)
@@ -32,7 +37,7 @@ Create a single page react app that fetches data from the stated open API below 
 ### Links
 
 - Solution URL: [My Solution](https://github.com/Multimarix/covid-case-tracker)
-- Live Site URL: [Live Site Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Site Demo](https://covid-case-demo.netlify.app/)
 
 ## My process
 
